@@ -3,6 +3,7 @@
 Метод `Console.Write()` выводит текст в Консоль. Код:
 
 ```csharp 
+{% highlight csharp %}
 Console.Write("Программирование - это круто!");
 internal abstract class BuildType
     {
@@ -23,6 +24,7 @@ internal abstract class BuildType
             ClientsData = clientsData;
         }
     }
+    {% endhighlight %}
 ```
 
 выведет:

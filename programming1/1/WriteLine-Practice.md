@@ -1,6 +1,6 @@
 ## Пример
 ```cs
-Console.WriteLine("
+Console.WriteLine("Здесь абсолютно ничего нет");
 ```
 
 ## Практика

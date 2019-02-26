@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "{{ site1.theme }}";
+@import "{{ site.theme }}";
+
 body
 {
- background-color: #fff;
-  background: url(images/hand.png) repeat-y #fc0;
+ background: #fc0;
 }

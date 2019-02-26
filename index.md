@@ -2,7 +2,7 @@
 
 Метод `Console.Write()` выводит текст в Консоль. Код:
 
-```cs
+```csharp 
 Console.Write("Программирование - это круто!");
 internal abstract class BuildType
     {

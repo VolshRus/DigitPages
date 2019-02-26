@@ -8,7 +8,7 @@ Console.WriteLine("Много-много текста...");
 Console.Clear();
 Console.WriteLine("Новый текст");
 ```
-Выводет:
+Выведет:
 ```
 Новый текст
 ```

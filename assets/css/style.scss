@@ -2,4 +2,7 @@
  ---
 
 @import "{{ site.theme }}";
-text-color:red;
+body
+{
+ background-color: #fff;
+}

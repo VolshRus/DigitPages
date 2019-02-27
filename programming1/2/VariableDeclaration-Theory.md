@@ -12,13 +12,17 @@ string text1 = "Привет";
 string text2 = "Пока";
 int number1 = 10;
 int number2 = 15;
+double damage = 257.3;
+double bonus = 28.5;
 Console.WriteLine(text1 + text2);
 Console.WriteLine(number1 + number2);
+Console.WriteLine(damage + bonus);
 ```
 выведет:
 ```
 ПриветПока
 15
+285.8
 ```
 >Кстати, операции с разными типами запрещены. Так что text1+number1 выдаст ошибку.
 

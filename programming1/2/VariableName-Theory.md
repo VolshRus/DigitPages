@@ -13,9 +13,9 @@
 
 Подходящие имена:
 ```
-health, name, isWin.
+health, name, isWin
 ```
 Неподходящие имена:
 ```
-a, sdvbscxvxhb, Zdorovie, thisIsDescriptionOfHeroHistory, lol.
+a, sdvbscxvxhb, Zdorovie
 ```

@@ -1,6 +1,7 @@
 **Переменная** - это контейнер для данных, в котором одновременно может храниться только одно значение. 
 ```csharp
 string userName = "Олег";
+
 Console.Write("Ваше имя: ")
 Console.WriteLine(userName);
 Console.WriteLine();
